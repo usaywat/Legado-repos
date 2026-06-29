@@ -39,7 +39,7 @@ Collection of Legado forks; to avoid confusion, fork repos with a name identical
 - Legado ZZ <br> https://github.com/shutaozhenzhen/legado
 
 ## Legado 3.0 Beta Forks
-- Legado (Beta) <br> 
+- Legado (Beta) <br> https://github.com/LegadoTeam/legado
   - Legado Sigma <br> https://github.com/luoyacheng/legado
     - Legado PP // 定時任務、缓存优化、书源编辑快捷导航、新包、 <br> https://github.com/damifan3/legadoPP
     - Legado H // 歌词功能、图片标题、源码优化、功能优化 <br> https://github.com/Herlianya/legado
@@ -47,6 +47,7 @@ Collection of Legado forks; to avoid confusion, fork repos with a name identical
     - Legado Local // 自用本地优化、使用AI维护、书架整理、离线搜索、替换净化 <br> https://github.com/Shirmy/legado
     - Legado Bot // AI助手、智能换源 <br> https://github.com/ogowoo/legado
     - Legado Lucky // 试图：自动换源、AI摘要、架构升级 <br> https://github.com/showyourlucky/legado
+    - Legado NG // 主題功能優化、內置AI功能 <br> https://github.com/joestar817/legado_NG
     - Legado MT // 持续维护 <br> https://github.com/urbanescavenger/readerMT
     - Legado QWQ // 架构更新、源码优化、介面优化、修复问题 <br> https://github.com/jackAqwq/legado
     - Legado（？）// 试图release <br> https://github.com/free-diy/legado

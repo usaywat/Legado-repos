@@ -17,7 +17,7 @@ Collection of Legado forks; to avoid confusion, fork repos with a name identical
 ## Legado 3.0 Legacy Unstable Forks（已有大改）
 - Legado Harmony // 鴻蒙系統 <br> https://github.com/mgz0227/legado-Harmony
 - Legado JC // AI摘要功能 <br> https://github.com/Jer-Chao/legado
-- ~~Legado Desktop // 實驗性項目、PC電腦用、適配安卓規則 <br> https://github.com/yufangjie1643/novel_read~~
+- Legado Desktop // 實驗性項目、PC電腦用、適配安卓規則 <br> https://github.com/yufangjie1643/novel_read
 - Legado Fries // 簡化操作、源碼優化、功能升級、刪除訂閲頁面、增加屏蔽規則 <br> https://github.com/huajideshutiao/legado
 - Legado J // 记录优化、笔记功能、AI助手、主题全量导出、藏票功能 <br> https://github.com/jingshiro/legado
 - Legado 4342 // MD3化、圓角化、介面優化 <br> https://github.com/yan4342/legado

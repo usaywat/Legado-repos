@@ -63,6 +63,7 @@ Collection of Legado forks; to avoid confusion, fork repos with a name identical
       - Legado Max E // 持续维护、规则优化、搜索优化、备份优化、筛选优化、屏蔽优化 <br> https://github.com/EdisonYo/Legado_Max
       - Legado Max S // 持续维护、首页功能、全新布局、<br> https://github.com/Suml-1/Legado_Max
       - Legado Max D // 备用、更新至MaxS首页功能前 <br> https://github.com/DandanLLab/Legado_Max
+      - Legado MR // 聚合、擴展插件、AI功能 <br> https://github.com/DandanLLab/mr
       - Legado Max // 备用、更新至MaxG删库前 <br> https://github.com/shanhuno/legados
 
 ## Legado 4.0 Beta
